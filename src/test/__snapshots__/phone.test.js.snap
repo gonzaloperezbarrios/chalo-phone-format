@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Phone basic snapshot 1`] = `
+<input
+  onBlur={[Function]}
+  onChange={[Function]}
+  onFocus={[Function]}
+  onKeyDown={[Function]}
+  onMouseUp={[Function]}
+  type="text"
+  value="(215) 123-4455"
+/>
+`;
